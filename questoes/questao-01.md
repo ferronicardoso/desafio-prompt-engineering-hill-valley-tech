@@ -26,7 +26,7 @@ Retorne apenas o Dockerfile comentado, sem explicações adicionais. Cada linha 
 
 ## Modelo
 
-Foi utilizado o `Claude Sonnet 4.6` pela expertise do Claude para com códigos e soluções técnica
+Foi utilizado o modelo `Claude Sonnet 4.6` pela expertise do Claude para com códigos e soluções técnica
 
 ## Output
 
@@ -106,4 +106,4 @@ CMD ["--workers", "4", "--bind", "0.0.0.0:8080", "app:app"]
 
 ## Justificativa
 
-O uso do RTF é o mais indicado porque defini a expertise do modelo (Role), especificando a ação e contexto técnico do que o modelo deverá executr (Task), e defini de forma clara o formato esperado que no nosso caso é necessário um Dockerfile comentado. Essa estrutura garante que o modelo entregue código pronto para produção e bem documentado, sem desvios.
+O uso do R-T-F é o mais indicado porque defini a expertise do modelo (Role), especificando a ação e contexto técnico do que o modelo deverá executr (Task), e defini de forma clara o formato esperado que no nosso caso é necessário um Dockerfile comentado. Essa estrutura garante que o modelo entregue código pronto para produção e bem documentado, sem desvios.
