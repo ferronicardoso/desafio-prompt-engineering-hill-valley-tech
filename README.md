@@ -43,6 +43,8 @@ Falta o Dockerfile. Seguir todas as boas práticas de criação.
 
 **Entregue.** Prompt, modelo, output e justificativa mostrando como Role, Task e Format aparecem no prompt.
 
+Solução: [Resposta da questão 1](questoes/questao-01.md)
+
 ---
 
 ## Questão 02 - Script de backup do Ledger
@@ -64,6 +66,8 @@ O script precisa fazer o dump com `pg_dump`, compactar com `gzip`, subir o arq
 **Tarefa.** Aplicando o framework **R-T-F**, escrever o prompt de IA que produza esse script bash.
 
 **Entregue.** Prompt, modelo, output e justificativa mostrando como Role, Task e Format aparecem no prompt.
+
+Solução: [Resposta da questão 2](questoes/questao-02.md)
 
 ---
 
@@ -92,6 +96,8 @@ O relatório que vai voltar pra Goldie precisa trazer as oportunidades de econom
 **Tarefa.** Aplicando o framework **T-A-G**, escrever o prompt de IA que, a partir do CSV acima, produza esse relatório alinhado à meta de 15%.
 
 **Entregue.** Prompt, modelo, output e justificativa mostrando como Task, Action e Goal aparecem no prompt.
+
+Solução: [Resposta da questão 3](questoes/questao-03.md)
 
 ---
 
@@ -130,6 +136,8 @@ Categorias em produção hoje: `subscription`, `one_time`, `refund` e `cred
 **Tarefa.** Aplicando o framework **T-A-G**, escrever o prompt de IA que produza essa query SQL.
 
 **Entregue.** Prompt, modelo, output e justificativa mostrando como Task, Action e Goal aparecem no prompt.
+
+Solução: [Resposta da questão 4](questoes/questao-04.md)
 
 ---
 
@@ -171,6 +179,8 @@ A versão moderna precisa ter alta disponibilidade, imagem versionada (nada de 
 
 **Entregue.** Prompt, modelo, output e justificativa mostrando como Before, After e Bridge aparecem no prompt.
 
+Solução: [Resposta da questão 5](questoes/questao-05.md)
+
 ---
 
 ## Questão 06 - Módulo Terraform no padrão interno
@@ -210,6 +220,8 @@ resource "aws_vpc" "this" {
 
 **Entregue.** Prompt, modelo, output e justificativa mostrando como Context, Action, Result e Example aparecem no prompt.
 
+Solução: [Resposta da questão 6](questoes/questao-06.md)
+
 ---
 
 ## Questão 07 - Runbook para alerta recorrente
@@ -229,6 +241,8 @@ O runbook precisa cobrir os passos iniciais de diagnóstico (com os comandos esp
 **Tarefa.** Aplicando o framework **R-I-S-E**, escrever o prompt de IA que produza esse runbook procedural completo.
 
 **Entregue.** Prompt, modelo, output e justificativa mostrando como Role, Input, Steps e Expectation aparecem no prompt.
+
+Solução: [Resposta da questão 7](questoes/questao-07.md)
 
 ---
 
@@ -288,6 +302,8 @@ Estado do cluster:
 Nesta questão a **justificativa é o coração da entrega**. Além de explicar o framework escolhido e como seus componentes aparecem no prompt, comparar explicitamente com pelo menos **2 outros frameworks candidatos**, apontando o que se ganharia e o que se perderia em cada um.
 
 **Entregue.** Prompt, modelo, output e justificativa estendida com comparação entre frameworks.
+
+Solução: [Resposta da questão 8](questoes/questao-08.md)
 
 ---
 
