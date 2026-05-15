@@ -3,7 +3,7 @@
 ## Prompt
 
 ```markdown
-# TASK
+# Task
 Analise o breakdown de custos AWS do arquivo CSV abaixo e identifique oportunidades de redução de custo alinhadas à meta de 15% de economia total, sem degradar SLA.
 
 :::csv
