@@ -1,4 +1,19 @@
-# Um dia na Hill Valley Tech
+# Desafio prático - Frameworks de Prompt Engineering
+
+Resposta para as questões
+
+- [Questão 1](questoes/questao-01.md)
+- [Questão 2](questoes/questao-02.md)
+- [Questão 3](questoes/questao-03.md)
+- [Questão 4](questoes/questao-04.md)
+- [Questão 5](questoes/questao-05.md)
+- [Questão 6](questoes/questao-06.md)
+- [Questão 7](questoes/questao-07.md)
+- [Questão 8](questoes/questao-08.md)
+
+
+
+## Um dia na Hill Valley Tech
 
 A Hill Valley Tech é uma empresa fictícia que serve de palco para este desafio. Tem cinco sistemas em produção, cada um com seu papel bem definido. O **Chronos** é o API gateway e a plataforma core, ponto de entrada de todo tráfego da empresa. Por trás dele, o **Ledger** é um data warehouse em PostgreSQL que guarda histórico de transações e eventos, enquanto o **Reactor** toca o processamento assíncrono por filas de mensagens. Em paralelo a tudo isso, o **Beacon** mantém a observabilidade do ambiente inteiro, métricas, logs e alertas, e é por ele que o plantão enxerga o que está acontecendo. Fora do core principal, o **Lift** é um produto em beta que o time vem amadurecendo à parte.
 
